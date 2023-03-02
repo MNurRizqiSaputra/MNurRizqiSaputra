@@ -11,7 +11,6 @@ semangat penuh tentang menjaga diri tetap up to date dengan teknologi dan tren t
 
 Skills: HTML, CSS, JS, PHP dan framework CodeIgneter
 
-- 🔭 I’m currently working on this page. 
 - 📫 How to reach me: putra15x@gmail.com 
 - ⚡ Fun fact: HARD WORKERS, DISCIPLINE, ALWAYS DO THE BEST 
 
